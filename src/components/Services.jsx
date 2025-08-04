@@ -37,7 +37,7 @@ export default function Services() {
   return (
     <section id="services" className="py-24 px-6 bg-gradient-to-br from-[#fdfcfb] to-[#e8edec]">
       <div className="text-center mb-16">
-        <h2 className="text-5xl font-extrabold text-gray-800">🎨 Our Services</h2>
+        <h2 className="text-5xl font-extrabold text-gray-800"> Our Services</h2>
         <p className="text-gray-600 text-lg mt-3">Creative, colorful, and cutting-edge digital solutions</p>
       </div>
 

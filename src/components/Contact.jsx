@@ -96,7 +96,7 @@ export default function Contact() {
             transition={{ delay: 0.3 }}
             className="mt-6 text-teal-300 bg-white/5 rounded-xl px-6 py-4"
           >
-            <p className="text-sm md:text-base">🤖 Auto-reply: {reply}</p>
+            <p className="text-sm md:text-base"> Auto-reply: {reply}</p>
           </motion.div>
         )}
       </motion.div>

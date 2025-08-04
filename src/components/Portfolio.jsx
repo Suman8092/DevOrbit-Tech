@@ -4,21 +4,21 @@ const projects = [
   {
     title: "Landing Page Creator",
     description: "Create and customize landing pages with templates.",
-    image: "/projects/landingpage.png",
+    image: "https://cdn.prod.website-files.com/5dc6414c11520ecb59e037db/62ed7ba5df1bb80a9b05418c_Landing-page-templates.jpg",
     liveLink: "https://your-live-link.com",
     codeLink: "https://github.com/your-repo",
   },
   {
     title: "E-commerce Platform",
     description: "Full-stack advanced shopping platform with cart & auth.",
-    image: "/projects/musa.png",
+    image: "https://media.licdn.com/dms/image/v2/D4D12AQGlOU6qSRL9zg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1683622584991?e=2147483647&v=beta&t=uF3dHQk9hLl5ZElnnUSasHjPe_RTasg-x1V4k1CJEto",
     liveLink: "https://ecom-live.com",
     codeLink: "https://github.com/your-ecom",
   },
   {
     title: "AI Quiz Generator",
     description: "Smart quiz app using OpenAI for question generation.",
-    image: "/projects/quiz.png",
+    image: "https://cdn.prod.website-files.com/65e9bdf1fae79e05e21320c3/670fb806a62bb7e8a435e5de_6608cb1a31fe46436279816a_AI%2520Quiz%2520Generators.webp",
     liveLink: "https://quizai.app",
     codeLink: "https://github.com/quiz-ai",
   },
@@ -29,7 +29,7 @@ export default function Portfolio() {
   return (
     <section id="portfolio" className="bg-[#f7f7f7] py-20 px-4 md:px-10">
       <div className="text-center mb-12">
-        <h2 className="text-4xl font-bold text-gray-800">🚀 Our Work</h2>
+        <h2 className="text-4xl font-bold text-gray-800"> Our Work</h2>
         <p className="text-gray-600 mt-2">Projects we’ve proudly built</p>
       </div>
 

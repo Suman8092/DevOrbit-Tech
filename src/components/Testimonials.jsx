@@ -8,7 +8,7 @@ const testimonials = [
     role: "Startup Founder",
     message:
       "DevOrbit Tech delivered beyond expectations. The 3D interface and smooth performance gave our platform a premium look!",
-    image: "/avatars/1.jpg",
+    image: "https://www.digitalstrike.com/wp-content/uploads/2018/09/testimonial-blog-post.jpg",
     rating: 5,
   },
   {
@@ -16,7 +16,7 @@ const testimonials = [
     role: "Business Consultant",
     message:
       "I loved working with the team. They’re professional, creative, and tech-savvy. Highly recommended!",
-    image: "/avatars/2.jpg",
+    image: "https://img.freepik.com/free-photo/young-woman-gesturing-ok-sign_329181-9848.jpg?semt=ais_hybrid&w=740",
     rating: 4,
   },
   {
@@ -24,7 +24,7 @@ const testimonials = [
     role: "App Developer",
     message:
       "They truly understand modern UI/UX and delivered a stunning portfolio site that helps me land new clients easily.",
-    image: "/avatars/3.jpg",
+    image: "https://img.freepik.com/free-photo/happy-smiling-girl-showing-thumbs-up-student-with-satisfied-feedback-recommending-smth-standing-white-background_1258-85589.jpg?semt=ais_items_boosted&w=740",
     rating: 5,
   },
 ];

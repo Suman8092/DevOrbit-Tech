@@ -8,7 +8,7 @@ export default function Footer() {
         {/* Company Info */}
         <div>
           <h2 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent mb-2">
-            DevOrbit Tech 🚀
+            DevOrbit Tech 
           </h2>
           <p className="text-gray-400">
             Accelerating Digital Innovation – From AI-driven apps to immersive 3D websites, we build for the future.

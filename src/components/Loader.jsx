@@ -26,7 +26,7 @@ export default function Loader() {
             animate={{ scale: 1, opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            DevOrbit Tech 🚀
+            DevOrbit Tech 
           </motion.h1>
 
           <div className="text-xl md:text-2xl text-gray-300 font-medium tracking-wide">

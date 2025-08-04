@@ -36,7 +36,7 @@ export default function Hero() {
           transition={{ delay: 1.4 }}
         >
           <button className="bg-indigo-600 px-6 py-3 rounded-full text-white hover:bg-indigo-700 transition">
-            Let’s Build Together 🚀
+            Let’s Build Together 
           </button>
           <button className="border border-indigo-400 px-6 py-3 rounded-full text-indigo-300 hover:bg-indigo-500 hover:text-white transition">
             Explore More

@@ -19,7 +19,7 @@ export default function About() {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/10 backdrop-blur-md bg-white/5">
             <img
-              src="https://images.unsplash.com/photo-1545239351-1141bd82e8a6"
+              src="https://cdn.sanity.io/images/uqxwe2qj/production/62db3c671745e98cb27690dff96f8033d2bb7f35-2048x1010.jpg"
               alt="DevOrbit Office"
               className="w-full h-full object-cover"
             />
@@ -36,7 +36,7 @@ export default function About() {
           className="text-white"
         >
           <h2 className="text-5xl font-extrabold mb-6 leading-tight bg-gradient-to-r from-pink-400 to-purple-500 bg-clip-text text-transparent">
-            🔥 About DevOrbit Tech
+             About DevOrbit Tech
           </h2>
           <p className="text-lg text-gray-300 mb-4 leading-relaxed">
             We’re a futuristic digital agency transforming brands with design, code, and AI.
